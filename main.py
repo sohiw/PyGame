@@ -2,7 +2,7 @@ import random
 
 GamesList = ["rps", "python knowledge"]
 rpsturns = ["rock", "paper", "scissor"]
-quitmsg = "--------------------------------------------------------\nDont forget to follow me on Instagram : @soheil.jei :D\nFor lastest version of Scripts check out github : \n--------------------------------------------------------"
+quitmsg = "--------------------------------------------------------\nDont forget to follow me on Instagram : @soheil.jei :D\nFor lastest version of Scripts check out github : github.com/sohiw \n--------------------------------------------------------"
 humanscore = 0
 pcscore = 0
 
