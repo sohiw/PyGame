@@ -1,0 +1,1 @@
+Just Launch the script using : python3 main.py
